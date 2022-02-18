@@ -1,0 +1,41 @@
+.reset-box {
+  margin-top: 160px;
+  text-align: center;
+}
+
+.reset-title {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  color: #222222;
+  margin-bottom: 45px;
+}
+
+.reset-btn {
+  border-radius: 10px;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: "Montserrat", serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 15px;
+  padding: 7px 0 7px 0;
+  box-sizing: border-box;
+  text-align: center;
+  width: 95px;
+  border: none;
+  background: #2ee5ac;
+}
+
+.reset-btn:hover {
+  background: rgb(204, 81, 23);
+  color: black;
+}
+
+.reset-btn:active {
+  background: #2ee5ac;
+}

@@ -1,0 +1,30 @@
+.sortList {
+  list-style-type: none;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 11px;
+  line-height: 13px;
+  text-transform: uppercase;
+  color: #999999;
+  display: flex;
+  justify-content: flex-start;
+  margin: 0 0 10px 0;
+}
+
+.sortList-item {
+  cursor: pointer;
+}
+
+.sortList-item:first-child {
+  margin-left: 16px;
+  margin-right: 379px;
+}
+
+.sortList-item:nth-child(2) {
+  margin-right: 99px;
+}
+
+.sortList-item:nth-child(3) {
+  margin-right: 75px;
+}
